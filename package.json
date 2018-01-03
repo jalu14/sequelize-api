@@ -1,0 +1,36 @@
+{
+  "name": "sequelize-api",
+  "version": "1.0.0",
+  "description": "Rest API using Sequelize with some sample tables and methods to get the basics of Sequelize",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "sequelize": "^4.28.6",
+    "sequelize-cli": "^3.2.0",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalu14/sequelize-api.git"
+  },
+  "keywords": [
+    "sequelize",
+    "api",
+    "rest",
+    "sqlite",
+    "mysql",
+    "postgress",
+    "MSSQL"
+  ],
+  "author": "jalu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalu14/sequelize-api/issues"
+  },
+  "homepage": "https://github.com/jalu14/sequelize-api#readme"
+}
